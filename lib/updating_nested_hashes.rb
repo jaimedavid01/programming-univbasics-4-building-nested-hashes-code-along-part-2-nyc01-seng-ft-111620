@@ -62,7 +62,7 @@ def add_characters
    # Code your solution here:
 
 if epic_tragedy[:additional_characters][:name]
-  
+  epic_tragedy[:additional_characters][:name] = "Prince Escalus"
 
 
 
